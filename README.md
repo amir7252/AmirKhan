@@ -4,17 +4,17 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshsinghpatel&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshsinghpatel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirkhan&label=Profile%20views&color=0e75b6&style=flat" alt="amirkhan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on *Mental Health Detection*
+- 🔭 I’m currently working on *Energy optimization of nodes in WSN*
 
 - 🌱 I’m currently learning *React Redux*
 
 - 💬 Ask me about *MERN*
 
-- 📫 How to reach me *mnraghuvanshi2000@gmail.com*
+- 📫 How to reach me *amirkhancool7252@gmail.com*
 
 - ⚡ Fun fact *I am funny*
 
